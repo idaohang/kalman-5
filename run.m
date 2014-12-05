@@ -1,4 +1,4 @@
 addpath('KPMstats')
-addpath('KPMsttools')
+addpath('KPMtools')
 addpath('Kalman')
 testKalman
